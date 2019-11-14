@@ -1,2 +1,2 @@
-# sidewalk_deep-learning
+# sidewalks_deep-learning
 Image processing with tensorflow
