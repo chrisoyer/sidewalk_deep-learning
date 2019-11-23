@@ -29,6 +29,16 @@
 *.log
 *.sql
 *.sqlite
+*.dbf
+
+# Data Files #
+##############
+*.geojson
+*.jpg
+*.kml
+*.shp
+*.shx
+*.prj
 
 # OS generated files #
 ######################
