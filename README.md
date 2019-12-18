@@ -1,4 +1,4 @@
-## Classification and Image Segmentation with Deep Learning in Tensorflow 2.
+## Classification and Image Segmentation with Deep Learning in Tensorflow 2.x
 
 ### Data Acquisition and GIS
 The starting point is the [Data Acquisition notebook](https://github.com/chrisoyer/sidewalks_deep-learning/blob/master/segmentation_load_from_weights.ipynb) In this notebook I import geojson data and use it, in conjunction with calls to the Google Streetview metadata API to generate coordinates including latitude, longitude, heading, and label (sidewalk vs no sidewalk). The label based on whether or not there is a sidewalk polygon object within specified distance of starting coordinate. Using this data, I downloaded streetview images from the Google StreetView static API. 
