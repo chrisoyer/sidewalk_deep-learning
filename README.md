@@ -26,6 +26,6 @@ Example result:
 
 Neither image dataset used are directly availible, but the first can be recreated using the code in the first notebook, and the second is publically availible upon approval at Cityscapes' website.
 
-Final models with saved weights can be found [here](https://drive.google.com/open?id=1bNYCF0eH_ikBQkQlWz6BdXKez5IAgRqD).
+Final models with saved weights can be found [here](https://drive.google.com/open?id=1bNYCF0eH_ikBQkQlWz6BdXKez5IAgRqD). (To load the convolutional classifier, be sure to define matthews coefficient as per the Image Classification notebook.)
 
 Major technologies used: Python data ecosystem, Tensorflow 2, Google Streetview & Colabs, GIS (Geopandas, Shapely, Pyproj).
